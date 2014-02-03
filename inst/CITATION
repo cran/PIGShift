@@ -1,0 +1,11 @@
+bibentry("Article",
+   title = "Inferring evolutionary histories of pathway regulation from transcriptional profiling data",
+   author = c(person("Joshua G.", "Schraiber"),person("Yulia","Mostovoy"),person("Tiffany Y.","Hsu"),person("Rachel B.","Brem")),
+   year   = 2013,
+   journal = "PLoS Computational Biology",
+   volume = 9,
+   Issue = 10,
+   pages = "e10003255",
+
+   mheader = "To cite PIGShift in publications, please use:"
+)
